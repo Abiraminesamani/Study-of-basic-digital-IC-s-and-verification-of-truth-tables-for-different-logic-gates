@@ -64,12 +64,12 @@ Y= A⊕B
 
 # PROGRAM:
 
-![image](https://github.com/user-attachments/assets/e520cfb7-1ad6-4804-a6a0-93b1b93859cd)
-
-
 Developed by: Abirami N
  
 RegisterNumber: 212224220005
+
+![image](https://github.com/user-attachments/assets/e520cfb7-1ad6-4804-a6a0-93b1b93859cd)
+
  
 # Logic symbol & Truthtable:
 
